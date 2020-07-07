@@ -1,0 +1,2 @@
+E:\Unity\Second attempt Skin unlocker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Unity\Second attempt Skin unlocker\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
